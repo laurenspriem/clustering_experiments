@@ -1,0 +1,8 @@
+# Ignore all data in the data folder
+data/*
+
+# Include the specific subfolder
+!data/lfw_demonstration_data/
+!data/lfw_demonstration_data/caches/
+!data/lfw_demonstration_data/caches/face-crops/
+!data/lfw_demonstration_data/indexeddb/
